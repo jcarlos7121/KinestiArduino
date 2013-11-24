@@ -35,7 +35,6 @@ void loop() {
 
 		   Serial.println(final1);
 		   Serial.println(final2);
-		   
 		   indice = 0;
 		}
 	}
